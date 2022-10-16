@@ -126,7 +126,14 @@
 
 .svg {
     display: flex;
-    flex-direction: row;
     justify-content: center;
     margin-top: 90px;
+}
+.stunnigd__line {
+    width: 410px;
+    height: 0;
+    color: var(--block-name-light);
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
