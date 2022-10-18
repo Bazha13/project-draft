@@ -25,11 +25,7 @@
     --input-button-bg-color: #18a8ee;
 	}
 
-img {
-	max-width: 100%;
-	height: auto;
-	display: block;
-}
+
 
 ol,
 ul {
@@ -39,4 +35,7 @@ ul {
 h1 {
 	font-family: 'Playfair Display', serif;
 	color: #fff;
+}
+.carousel-indicators {
+	margin-bottom: -3rem;
 }
